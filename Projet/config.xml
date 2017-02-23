@@ -1,0 +1,13 @@
+<root>
+  <server>
+    <name>
+      MonServeur
+    </name>
+    <port>
+      8082
+    </port>
+    <url-service-rest>
+      https://api.mon-service.com/
+    </url-service-rest>
+  </server>
+</root>
